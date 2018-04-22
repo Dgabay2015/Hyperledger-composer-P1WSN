@@ -1,7 +1,6 @@
-# Basic Sample Business Network
+# Blockchain Wireless Sensor Network
 
-> This is the "Hello World" of Hyperledger Composer samples, which demonstrates the core functionality of Hyperledger Composer by changing the value of an asset.
-
+> 
 This business network defines:
 
 **Participant**
